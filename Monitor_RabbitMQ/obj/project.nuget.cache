@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "CJViKIEcFVeZhk8w92kS0cBe0HwHUu3RMUA/dZdgmuefsDw9AekhQCD5mKp7DhRDsDH7GUa5m+HNUx8VU2vhZQ==",
+  "success": true,
+  "projectFilePath": "/Users/itarin/workspace/steeltoe-rabbitmq/Monitor_RabbitMQ/Monitor_RabbitMQ.csproj",
+  "expectedPackageFiles": [
+    "/Users/itarin/.nuget/packages/microsoft.extensions.caching.abstractions/3.1.0/microsoft.extensions.caching.abstractions.3.1.0.nupkg.sha512",
+    "/Users/itarin/.nuget/packages/microsoft.extensions.configuration/3.1.0/microsoft.extensions.configuration.3.1.0.nupkg.sha512",
+    "/Users/itarin/.nuget/packages/microsoft.extensions.configuration.abstractions/3.1.0/microsoft.extensions.configuration.abstractions.3.1.0.nupkg.sha512",
+    "/Users/itarin/.nuget/packages/microsoft.extensions.configuration.binder/3.1.0/microsoft.extensions.configuration.binder.3.1.0.nupkg.sha512",
+    "/Users/itarin/.nuget/packages/microsoft.extensions.dependencyinjection/3.1.0/microsoft.extensions.dependencyinjection.3.1.0.nupkg.sha512",
+    "/Users/itarin/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.1.0/microsoft.extensions.dependencyinjection.abstractions.3.1.0.nupkg.sha512",
+    "/Users/itarin/.nuget/packages/microsoft.extensions.fileproviders.abstractions/3.1.0/microsoft.extensions.fileproviders.abstractions.3.1.0.nupkg.sha512",
+    "/Users/itarin/.nuget/packages/microsoft.extensions.hosting.abstractions/3.1.0/microsoft.extensions.hosting.abstractions.3.1.0.nupkg.sha512",
+    "/Users/itarin/.nuget/packages/microsoft.extensions.logging.abstractions/3.1.0/microsoft.extensions.logging.abstractions.3.1.0.nupkg.sha512",
+    "/Users/itarin/.nuget/packages/microsoft.extensions.options/3.1.0/microsoft.extensions.options.3.1.0.nupkg.sha512",
+    "/Users/itarin/.nuget/packages/microsoft.extensions.options.configurationextensions/3.1.0/microsoft.extensions.options.configurationextensions.3.1.0.nupkg.sha512",
+    "/Users/itarin/.nuget/packages/microsoft.extensions.primitives/3.1.0/microsoft.extensions.primitives.3.1.0.nupkg.sha512",
+    "/Users/itarin/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",
+    "/Users/itarin/.nuget/packages/polly/7.1.1/polly.7.1.1.nupkg.sha512",
+    "/Users/itarin/.nuget/packages/polly.contrib.waitandretry/1.0.0/polly.contrib.waitandretry.1.0.0.nupkg.sha512",
+    "/Users/itarin/.nuget/packages/rabbitmq.client/6.0.0-rc1/rabbitmq.client.6.0.0-rc1.nupkg.sha512",
+    "/Users/itarin/.nuget/packages/steeltoe.common/3.0.0-rc1/steeltoe.common.3.0.0-rc1.nupkg.sha512",
+    "/Users/itarin/.nuget/packages/steeltoe.common.abstractions/3.0.0-rc1/steeltoe.common.abstractions.3.0.0-rc1.nupkg.sha512",
+    "/Users/itarin/.nuget/packages/steeltoe.common.retry/3.0.0-rc1/steeltoe.common.retry.3.0.0-rc1.nupkg.sha512",
+    "/Users/itarin/.nuget/packages/steeltoe.messaging.abstractions/3.0.0-rc1/steeltoe.messaging.abstractions.3.0.0-rc1.nupkg.sha512",
+    "/Users/itarin/.nuget/packages/steeltoe.messaging.messagingbase/3.0.0-rc1/steeltoe.messaging.messagingbase.3.0.0-rc1.nupkg.sha512",
+    "/Users/itarin/.nuget/packages/steeltoe.messaging.rabbitmq/3.0.0-rc1/steeltoe.messaging.rabbitmq.3.0.0-rc1.nupkg.sha512",
+    "/Users/itarin/.nuget/packages/system.diagnostics.diagnosticsource/4.4.1/system.diagnostics.diagnosticsource.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}
